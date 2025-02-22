@@ -16,4 +16,5 @@ The Pet Grooming Appointment Booking System is designed to manage client records
 To get a copy of this project, open your terminal and run:
 
 ```bash
-git clone https://github.com/DoniyoLimson/PetGroomingApp.git
+https://github.com/Doniyo0442/PetGroomingApp1.git
+
