@@ -18,3 +18,10 @@ To get a copy of this project, open your terminal and run:
 ```bash
 https://github.com/Doniyo0442/PetGroomingApp1.git
 
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+
+**Why MIT?**  
+The MIT License was chosen because it allows others to use, modify, and distribute the app while protecting the original authorship. It ensures the code remains open-source while giving users flexibility for their own projects.
